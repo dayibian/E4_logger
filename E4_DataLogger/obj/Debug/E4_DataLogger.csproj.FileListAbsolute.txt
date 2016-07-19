@@ -1,0 +1,9 @@
+D:\Documents\AffectiveTouchProject\E4_DataLogger\E4_DataLogger\bin\Debug\E4_DataLogger.exe.config
+D:\Documents\AffectiveTouchProject\E4_DataLogger\E4_DataLogger\bin\Debug\E4_DataLogger.exe
+D:\Documents\AffectiveTouchProject\E4_DataLogger\E4_DataLogger\bin\Debug\E4_DataLogger.pdb
+D:\Documents\AffectiveTouchProject\E4_DataLogger\E4_DataLogger\obj\Debug\E4_DataLogger.csprojResolveAssemblyReference.cache
+D:\Documents\AffectiveTouchProject\E4_DataLogger\E4_DataLogger\obj\Debug\E4_DataLogger.Properties.Resources.resources
+D:\Documents\AffectiveTouchProject\E4_DataLogger\E4_DataLogger\obj\Debug\E4_DataLogger.csproj.GenerateResource.Cache
+D:\Documents\AffectiveTouchProject\E4_DataLogger\E4_DataLogger\obj\Debug\E4_DataLogger.exe
+D:\Documents\AffectiveTouchProject\E4_DataLogger\E4_DataLogger\obj\Debug\E4_DataLogger.pdb
+D:\Documents\AffectiveTouchProject\E4_DataLogger\E4_DataLogger\obj\Debug\E4_DataLogger.PhysioRealTimeDisplay.resources
